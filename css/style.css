@@ -1,0 +1,74 @@
+body {
+    text-align: center;
+}
+
+.navbar-brand  {
+    color:#F1EEE9;
+}
+
+.Main{
+    padding: 3% 10%;
+}
+
+.functions{
+    padding: 1% 10%;
+}
+
+.main-text {
+    padding: 10%;
+    text-align: left;
+}
+
+.fun-img {
+    height: 50%;
+}
+
+#Hero {
+    color: #F1EEE9;
+    background-color: #15133C;;
+}
+
+#Function {
+    text-align: center;
+    background-color: #EC994B;
+}
+
+#Sites {
+    text-align: center;
+    color: #F1EEE9;
+    background-color: #15133C;
+    padding: 5%;
+}
+
+.card {
+    margin: 5%;
+    text-align: left;
+}
+
+#Reviews
+{
+    background-color: #EC994B;
+    text-align: center;
+    padding: 7% 15%;
+}
+
+.garfil-img {
+    width: 10%;
+    border-radius: 100%;
+}
+
+.Site-Reviews {
+    padding: 7% 15%;
+}
+
+.social-icons{
+    color:#F1EEE9;
+    margin: 5%;
+}
+
+#Footer {
+    color: #F1EEE9;
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #15133C;
+}
