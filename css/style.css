@@ -10,8 +10,8 @@ body {
     padding: 3% 10%;
 }
 
-.functions{
-    padding: 1% 10%;
+.main-image{
+    width: 100%;
 }
 
 .main-text {
@@ -20,7 +20,7 @@ body {
 }
 
 .fun-img {
-    height: 50%;
+    width: 100%;
 }
 
 #Hero {
@@ -49,7 +49,6 @@ body {
 {
     background-color: #EC994B;
     text-align: center;
-    padding: 7% 15%;
 }
 
 .garfil-img {
@@ -71,4 +70,8 @@ body {
     text-align: center;
     padding: 7% 15%;
     background-color: #15133C;
+}
+
+.carousel-item {
+    padding: 7% 15%;
 }
