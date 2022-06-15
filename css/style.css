@@ -1,9 +1,17 @@
 body {
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .navbar-brand  {
     color:#F1EEE9;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 5rem;
+}
+
+.navbar-nav {
+    font-family:'Times New Roman', Times, serif;
 }
 
 .Main{
@@ -17,6 +25,7 @@ body {
 .main-text {
     padding: 10%;
     text-align: left;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .fun-img {
@@ -31,6 +40,7 @@ body {
 #Function {
     text-align: center;
     background-color: #EC994B;
+    font-family:'Times New Roman', Times, serif;
 }
 
 #Sites {
@@ -38,17 +48,21 @@ body {
     color: #F1EEE9;
     background-color: #15133C;
     padding: 5%;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .card {
     margin: 5%;
     text-align: left;
+    color: black;
+    font-family:'Times New Roman', Times, serif;
 }
 
 #Reviews
 {
     background-color: #EC994B;
     text-align: center;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .garfil-img {
@@ -70,6 +84,7 @@ body {
     text-align: center;
     padding: 7% 15%;
     background-color: #15133C;
+    font-family:'Times New Roman', Times, serif;
 }
 
 .carousel-item {
