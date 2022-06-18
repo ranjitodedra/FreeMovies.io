@@ -58,6 +58,13 @@ body {
     font-family:'Times New Roman', Times, serif;
 }
 
+.card:hover{
+    border: solid 2px;
+    transition: cubic-bezier(0.215, 0.610, 0.355, 1);
+    box-shadow: white;
+    border-color: #F1EEE9;
+}
+
 #Reviews
 {
     background-color: #EC994B;
