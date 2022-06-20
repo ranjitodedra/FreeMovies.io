@@ -18,6 +18,12 @@ body {
     padding: 3% 10%;
 }
 
+.card .btn:hover{
+    background-color: #EC994B;
+    border: solid 2px;
+    color: black;
+    border-color: black;
+}
 .main-image{
     width: 100%;
 }
