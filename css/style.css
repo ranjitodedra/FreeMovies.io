@@ -1,81 +1,107 @@
+/* --- COMPONENTS BY TAG --- */
 body {
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.navbar-brand  {
-    color:#F1EEE9;
-    font-family:'Times New Roman', Times, serif;
+/* --- NAVBAR --- */
+.navbar-brand {
+    color: #F1EEE9;
+    font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
     font-size: 5rem;
 }
 
 .navbar-nav {
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.Main{
+/* --- HERO PART --- */
+#Hero {
+    color: #F1EEE9;
+    background-color: #15133C;
+    ;
+}
+
+.Main {
     padding: 3% 10%;
 }
 
-.card .btn:hover{
-    background-color: #EC994B;
-    border: solid 2px;
-    color: black;
-    border-color: black;
-}
-.main-image{
+.main-image {
     width: 100%;
 }
 
 .main-text {
     padding: 10%;
     text-align: left;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* --- FUNCTIONALITIES --- */
+
+#Function {
+    text-align: center;
+    background-color: #EC994B;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .fun-img {
     width: 60%;
 }
 
-#Hero {
-    color: #F1EEE9;
-    background-color: #15133C;;
-}
-
-#Function {
-    text-align: center;
-    background-color: #EC994B;
-    font-family:'Times New Roman', Times, serif;
-}
-
+/*  --- SITES --- */
 #Sites {
     text-align: center;
     color: #F1EEE9;
     background-color: #15133C;
     padding: 5%;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
+.rocket-image {
+    width: 30%;
+    transform: rotate(60deg);
+    position: relative;
+    top: 5%;
+    left: 2%;
+}
+
+/* --- CARDS --- */
 .card {
     margin: 5%;
     text-align: left;
     color: black;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.card:hover{
+.card:hover {
     border: solid 2px;
     transition: cubic-bezier(0.215, 0.610, 0.355, 1);
     box-shadow: white;
     border-color: #F1EEE9;
 }
 
-#Reviews
-{
+.card-data {
+    padding: 10%;
+    text-align: center;
+    justify-content: center;
+    height: 40%;
+}
+
+.card .btn:hover {
+    background-color: #EC994B;
+    border: solid 2px;
+    color: black;
+    border-color: black;
+}
+
+
+/* --- REVIEWS --- */
+
+#Reviews {
     background-color: #EC994B;
     text-align: center;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .garfil-img {
@@ -87,34 +113,21 @@ body {
     padding: 7% 15%;
 }
 
-.social-icons{
-    color:#F1EEE9;
-    margin: 5%;
+.carousel-item {
+    padding: 7% 15%;
 }
 
+
+/* --- FOOTER --- */
 #Footer {
     color: #F1EEE9;
     text-align: center;
     padding: 7% 15%;
     background-color: #15133C;
-    font-family:'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-.carousel-item {
-    padding: 7% 15%;
-}
-
-.rocket-image {
-    width: 30%;
-    transform: rotate(60deg);
-    position: relative;
-    top : 5%;
-    left: 2%;
-} 
-
-.card-data{
-    padding: 10%;
-    text-align: center;
-    justify-content:center;
-    height: 40%;
+.social-icons {
+    color: #F1EEE9;
+    margin: 5%;
 }
