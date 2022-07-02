@@ -4,7 +4,7 @@
   <image src="https://media3.giphy.com/media/fw3Y72K2qK5OLs7B37/giphy.gif?cid=ecf05e47kimn2b56suso404z67fqp7wqmrydlamssg6xz2fa&rid=giphy.gif&ct=s">
 </p>
  
-- FreeMovies.io tells about collection of free websites from which you can watch any show for free.
+- FreeMovies.io tells about collection of free websites from which you can watch any show for free on you devices.
 
 - [visit site](https://ranjitodedra.github.io/FreeMovies.io/)
 
